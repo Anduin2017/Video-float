@@ -4,7 +4,7 @@ A chrome extension helps play any video float.
 
 ## How to run
 
-Open the Extension Management page by navigating to chrome://extensions.
+Open the Extension Management page by navigating to [chrome://extensions](chrome://extensions).
 
 The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then selecting Extensions.
 
