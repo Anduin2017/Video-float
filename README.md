@@ -2,6 +2,10 @@
 
 A chrome extension helps play any video float.
 
+Install: 
+
+https://chrome.google.com/webstore/detail/jigimlmpjhkpoajikigkmbpeifkfibhj
+
 ## How to run
 
 Open the Extension Management page by navigating to `chrome://extensions`.
