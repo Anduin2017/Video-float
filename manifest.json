@@ -12,7 +12,6 @@
     ],
     "persistent": false
   },
-
   "browser_action": {},
   "icons": {
     "16": "images/get_started16.png",
